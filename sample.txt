@@ -1,2 +1,4 @@
 simple file created on new repository. 
 By Ritika
+Update in github
+Added few lines in remote
